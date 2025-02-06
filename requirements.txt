@@ -1,4 +1,6 @@
-plotly
 dash
+plotly
+pandas
 gunicorn
 sqlalchemy
+python-dotenv
